@@ -1,0 +1,32 @@
+{
+  "name": "slack-faq",
+  "version": "1.0.0",
+  "description": "this bot is meant to answer repeated questions. so human users can get a much needed break :D",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^1.4.1",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "java": "^0.8.0",
+    "mysql": "^2.13.0",
+    "nodemon": "^1.11.0",
+    "progress": "^1.1.8",
+    "request": "^2.81.0",
+    "slackbots": "^0.3.0",
+    "spacy-nlp": "^1.0.7",
+    "websocket": "^1.0.24"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctreude/slack-faq.git"
+  },
+  "author": "Safwan (Saf)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctreude/slack-faq/issues"
+  },
+  "homepage": "https://github.com/ctreude/slack-faq#readme"
+}
